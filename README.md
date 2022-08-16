@@ -3,7 +3,7 @@
 <p align=”justify”>
 Um <b>Buraco Negro</b> é uma região do espaço-tempo onde o campo gravitacional é tão intenso que nada que atinja o limite do seu horizonte de eventos pode escapar, isso inclui corpos visíveis, partículas atômicas e subatômicas e até mesmo radiações eletromagnéticas como a luz. Segundo a Teoria da Relatividade Geral de Albert Einstein, um corpo massivo suficientemente denso poderá colapsar para dentro de si mesmo vítima da sua própria gravidade e deformar o tecido do espaço-tempo a sua volta para além dos limites gravitacionais conhecidos. A distorção gravitacional incidente sobre o tecido do espaço-tempo gera aberrações na passagem do tempo fazendo com que ele passe de forma diferente aos arredores do buraco negro com relação a pontos distantes da sua localização.
 </p>
-<div align="center"><img src="https://github.com/aiquantumneuro/black_hole_simulation/blob/main/black_hole.jpg"></div>
+<div align="center"><img src="https://github.com/grupoquantum/black_hole_simulation/blob/main/black_hole.jpg"></div>
 <p align=”justify”>
 <b>Como surgem os Buracos Negros?</b> Buracos Negros podem surgir no final da vida de estrelas supermassivas com a partir de cerca de 10 vezes a massa do Sol. A transformação ocorre quando essa estrela explode por excesso de matéria e falta de combustível dando origem ao que conhecemos como Supernova ou através de uma explosão de raios gamma. A estrela colapsa quando começa a fundir elementos mais leves em elementos mais pesados como carbono e ferro que passam a torná-la cada vez mais densa até que ela chegue a um ponto de densidade máxima.
 </p>
